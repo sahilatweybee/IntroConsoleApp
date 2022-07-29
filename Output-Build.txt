@@ -1,0 +1,5 @@
+﻿Build started...
+1>------ Build started: Project: IntroConsoleApp, Configuration: Debug Any CPU ------
+1>D:\ASP.NET_Course\IntroConsoleApp\IntroConsoleApp\Program.cs(15,45,15,53): error CS1501: No overload for method 'ReadLine' takes 1 arguments
+1>D:\ASP.NET_Course\IntroConsoleApp\IntroConsoleApp\Program.cs(16,45,16,53): error CS1501: No overload for method 'ReadLine' takes 1 arguments
+========== Build: 0 succeeded, 1 failed, 0 up-to-date, 0 skipped ==========
